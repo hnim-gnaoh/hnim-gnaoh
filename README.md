@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hoang Minh
 - 👀 I’m interested in CTF, OSINT
-- 🌱 I’m currently learning Information Assurance
+- 🌱 I've finished learning path of Information Assurance in FPT University
 - 📫 Call me by 0365062403
 
 <!---
